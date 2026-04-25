@@ -1,0 +1,36 @@
+---
+title: ""
+navbar: false
+format: 
+  closeread-html:
+    remove-header-space: true
+    cr-section:
+       layout: "overlay-center"
+    cr-style:
+      section-background-color: white
+      narrative-background-color-overlay: white
+      narrative-overlay-max-width: 700px
+      narrative-text-color-overlay: black
+      narrative-font-family: Times, "Times New Roman", Georgia, serif;
+      narrative-font-size: 1.8em
+---
+
+::::{.cr-section}
+
+Hello there 👋 
+
+...this is about BSF Leaders Retreat 2026...
+
+...if you have already RSVP-ed...
+
+Well done 🤩🤩🤩
+
+![](media/cat-clap.webp){fig-align="center" width="200%"}
+
+...if you haven't yet, please RSVP ASAP on [Whatsapp](https://web.whatsapp.com/)!!! 
+
+...now for the exciting bit...
+
+For more details on the retreat, click on this handsome lad 👇
+
+[![](media/sze.jpg)](info.qmd)
